@@ -1,0 +1,1 @@
+Pour lancer le jeu, il vous suffit uniquement de vous placer dans ce dossier depuis un terminal et de taper "make test"
